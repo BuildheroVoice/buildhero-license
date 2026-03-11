@@ -6,4 +6,13 @@
       "expires": "2026-04-11"
     }
   ]
-}
+},
+{
+  "licenses": [
+    {
+      "email": "matthiasreischl@hotmail.de",
+      "license": "BH-Voice-Owner",
+      "expires": "2099-12-31"
+    }
+  ]
+},
