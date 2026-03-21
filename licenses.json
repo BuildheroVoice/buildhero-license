@@ -4,7 +4,12 @@
       "email": "matthiasreischl@hotmail.de",
       "type": "admin",
       "expires": "2099-12-31"
-    }
+    },
+    {
+  "email": "test@mail.de",
+  "type": "trial",
+  "expires": "2026-03-25"
+}
   ]
 }
 
