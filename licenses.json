@@ -1,18 +1,9 @@
 {
-  "licenses": [
-    {
-      "email": "tester1@mail.de",
-      "license": "BH-VOICE-TEST1",
-      "expires": "2026-04-11"
-    }
-  ]
-},
-{
-  "licenses": [
+  "users": [
     {
       "email": "matthiasreischl@hotmail.de",
-      "license": "BH-Voice-Owner",
+      "type": "admin",
       "expires": "2099-12-31"
-    }
+    },
   ]
-},
+}
